@@ -18,7 +18,8 @@ Conditional Menu
   - modifying conditions/criteria are : greater than or equal to, less than or equal to, equal to and not equal to
 
 Technology used
-Random Me API - random set of people for seeding employee directory
-React
-Bootstrap
-Moment
+
+- Random Me API - random set of people for seeding employee directory
+- React
+- Bootstrap
+- Moment
