@@ -1,0 +1,41 @@
+.profileImage {
+  border-radius: 15%;
+  display: flex;
+  margin: 10% auto;
+  justify-content: space-around;
+}
+
+.empCard {
+  border: black;
+  background-color: silver;
+  border-top-left-radius: 15%;
+  border-bottom-left-radius: 15%;
+  margin: 4px;
+  padding: 2px;
+}
+.empCharCard {
+  border: black;
+  background-color: silver;
+  margin: 4px;
+  padding: 2px;
+}
+
+.empAddressCard {
+  border: black;
+  border-block-color: black;
+  background-color: silver;
+  margin: 4px;
+  margin-left: 0px;
+  padding: 2px;
+}
+
+.btnBar {
+  margin-left: 50px;
+  border: solid;
+  border-color: lightblue;
+  border-spacing: 15px;
+}
+
+.btnContent {
+  align-self: center;
+}
